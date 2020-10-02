@@ -1,0 +1,56 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "tecnologias",
+    "title": "1. Tecnologías emergentes",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/1-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "hospitales",
+    "title": "2. Hospitales inteligentes: conceptos básicos",
+    "breadcrumb": ["Inicio","tema 2"],
+    "path": "pages/2-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "data",
+    "title": "3. Data Science",
+    "breadcrumb": ["Inicio","tema 3"],
+    "path": "pages/3-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "machine",
+    "title": "4. Machine Learning: conceptos básicos",
+    "breadcrumb": ["Inicio","Tema 4"],
+    "path": "pages/4-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "realidad",
+    "title": "5. Realidad virtual, aumentada y mixta",
+    "breadcrumb": ["Inicio","Tema 5"],
+    "path": "pages/5-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "inteligencia",
+    "title": "6. Inteligencia artificial: conceptos básicos",
+    "breadcrumb": ["Inicio","Tema 6"],
+    "path": "pages/6-tema.html"
+  }    
+]
